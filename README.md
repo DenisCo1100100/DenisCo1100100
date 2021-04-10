@@ -11,7 +11,7 @@ My name is Denis, i'm a C# software engineer. I'm from Belarus, living in Pinsk.
 ### Сontacts
 [![Linkedin](https://img.shields.io/badge/-Linkedin-42aaff?style=flat-square&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/denis-kozik-6b2a68209/)
 [![Vkontakte](https://img.shields.io/badge/-ВК-42aaff?style=flat-square&logo=Vk&logoColor=ffffff)](https://vk.com/id415801903)
-[![Instagram](https://img.shields.io/badge/-Instagram-42aaff?style=flat-square&logo=Instagram&logoColor=ffffff)](www.instagram.com/denis_kozik1)
+[![Instagram](https://img.shields.io/badge/-Instagram-42aaff?style=flat-square&logo=Instagram&logoColor=ffffff)](https://www.instagram.com/denis_kozik1)
 [![Telegram](https://img.shields.io/badge/-Telegram-42aaff?style=flat-square&logo=Telegram&logoColor=ffffff)](https://t.me/DenisKod1)
 
 ### GitHub Stats
