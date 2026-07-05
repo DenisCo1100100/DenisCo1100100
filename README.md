@@ -13,24 +13,9 @@
 
 My name is **Denis**. I'm a **C# / .NET software engineer** from Belarus, living in Pinsk.
 
-- 🔭 Currently building **VolleyHub API**
 - 🧱 Interested in **Clean Architecture**, backend design and real-world product development
 - ⚙️ Main stack: **C#**, **.NET**, **ASP.NET Core**, **PostgreSQL**, **Git**
 - 🎮 Also have experience with **Unity**
-
-## 🏐 Current project
-
-### VolleyHub API
-
-Backend for a volleyball platform focused on organizing games, courts, players and participants.
-
-The project direction:
-
-- community volleyball games
-- courts and venues
-- organizers and players
-- attendance and reliability tracking
-- Clean Architecture backend
 
 ## 🧰 Tech Stack
 
@@ -78,11 +63,6 @@ The project direction:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DenisCo1100100&theme=github-compact&hide_border=true" alt="GitHub activity graph" />
 </p>
 
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DenisCo1100100&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub trophies" />
-</p>
 
 ## 🐍 Contribution Snake
 
