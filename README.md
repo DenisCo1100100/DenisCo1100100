@@ -14,6 +14,7 @@ My name is Denis, i'm a C# software engineer. I'm from Belarus, living in Pinsk.
 [![Telegram](https://img.shields.io/badge/-Telegram-42aaff?style=flat-square&logo=Telegram&logoColor=ffffff)](https://t.me/mbdkozik)
 
 ### GitHub Stats
-![DenisCo1100100 GitHub stats](https://github-readme-stats.vercel.app/api?username=DenisCo1100100&hide=contribs,prs,issues&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DenisCo1100100&layout=compact&theme=dark)](https://github.com/DenisCo1100100/github-readme-stats)
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
 <!--
 **DenisCo1100100/DenisCo1100100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
