@@ -1,20 +1,97 @@
-### Hi there 👋 
-My name is Denis, i'm a C# software engineer. I'm from Belarus, living in Pinsk.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:0D1117,100:42AAFF&text=Hi%20there,%20I'm%20Denis%20👋&fontColor=ffffff&fontSize=38&fontAlignY=35&desc=C%23%20Software%20Engineer%20%7C%20.NET%20Backend%20%7C%20Clean%20Architecture&descSize=18&descAlignY=58&animation=fadeIn" />
 
-### Technologies & Tools
-![Windows](https://img.shields.io/badge/OS-Windows-42aaff?style=flat-square&logo=Windows&logoColor=ffffff)
-![C#](https://img.shields.io/badge/Code-C%23-42aaff?style=flat-square&logo=c-sharp&logoColor=ffffff)
-![](https://img.shields.io/badge/Editor-VisualStudio%20-informational?style=flat-square&logo=visual-studio&logoColor=white&color=5194f0)
-![](https://img.shields.io/badge/Engine-Unity%20-informational?style=flat-square&logo=unity&logoColor=white&color=5194f0)
-![Git](https://img.shields.io/badge/Git-Git-42aaff?style=flat-square&logo=git&logoColor=ffffff)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=42AAFF&center=true&vCenter=true&width=760&lines=C%23+Software+Engineer+from+Belarus;.NET+%7C+ASP.NET+Core+%7C+Clean+Architecture;Building+VolleyHub+API;Learning+by+shipping+real+features" alt="Typing SVG" />
+</p>
 
-### Сontacts
-[![Linkedin](https://img.shields.io/badge/-Linkedin-42aaff?style=flat-square&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/denis-kozik-1058b6236/)
-[![Instagram](https://img.shields.io/badge/-Instagram-42aaff?style=flat-square&logo=Instagram&logoColor=ffffff)](https://www.instagram.com/mb.dkozik)
-[![Telegram](https://img.shields.io/badge/-Telegram-42aaff?style=flat-square&logo=Telegram&logoColor=ffffff)](https://t.me/mbdkozik)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DenisCo1100100&style=flat-square&color=42aaff" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/DenisCo1100100?label=Followers&style=flat-square&color=42aaff" alt="GitHub followers" />
+</p>
 
-### GitHub Stats
-![Stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg)
-<!--
-**DenisCo1100100/DenisCo1100100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About me
+
+My name is **Denis**. I'm a **C# / .NET software engineer** from Belarus, living in Pinsk.
+
+- 🔭 Currently building **VolleyHub API**
+- 🧱 Interested in **Clean Architecture**, backend design and real-world product development
+- ⚙️ Main stack: **C#**, **.NET**, **ASP.NET Core**, **PostgreSQL**, **Git**
+- 🎮 Also have experience with **Unity**
+
+## 🏐 Current project
+
+### VolleyHub API
+
+Backend for a volleyball platform focused on organizing games, courts, players and participants.
+
+The project direction:
+
+- community volleyball games
+- courts and venues
+- organizers and players
+- attendance and reliability tracking
+- Clean Architecture backend
+
+## 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,git,github,postgres,docker,unity&theme=dark" alt="Tech stack" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OS-Windows-42aaff?style=flat-square&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code-C%23-42aaff?style=flat-square&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Editor-Visual%20Studio-42aaff?style=flat-square&logo=visualstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Backend-.NET-42aaff?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database-PostgreSQL-42aaff?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/VCS-Git-42aaff?style=flat-square&logo=git&logoColor=white" />
+</p>
+
+## 📫 Contacts
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/denis-kozik-1058b6236/">
+    <img src="https://img.shields.io/badge/LinkedIn-42aaff?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/mb.dkozik">
+    <img src="https://img.shields.io/badge/Instagram-42aaff?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://t.me/mbdkozik">
+    <img src="https://img.shields.io/badge/Telegram-42aaff?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="./profile/stats.svg" alt="GitHub stats" />
+  <img height="165" src="./profile/top-langs.svg" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=DenisCo1100100&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub streak" />
+</p>
+
+## 📈 Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DenisCo1100100&theme=github-compact&hide_border=true" alt="GitHub activity graph" />
+</p>
+
+## 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DenisCo1100100&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub trophies" />
+</p>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile/github-snake.svg" />
+    <img alt="github contribution snake" src="./profile/github-snake.svg" />
+  </picture>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0D1117,100:42AAFF" />
