@@ -63,15 +63,4 @@ My name is **Denis**. I'm a **C# / .NET software engineer** from Belarus, living
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DenisCo1100100&theme=github-compact&hide_border=true" alt="GitHub activity graph" />
 </p>
 
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./profile/github-snake.svg" />
-    <img alt="github contribution snake" src="./profile/github-snake.svg" />
-  </picture>
-</p>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0D1117,100:42AAFF" />
