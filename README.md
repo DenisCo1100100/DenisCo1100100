@@ -4,11 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=42AAFF&center=true&vCenter=true&width=760&lines=C%23+Software+Engineer+from+Belarus;.NET+%7C+ASP.NET+Core+%7C+Clean+Architecture;Building+VolleyHub+API;Learning+by+shipping+real+features" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DenisCo1100100&style=flat-square&color=42aaff" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/DenisCo1100100?label=Followers&style=flat-square&color=42aaff" alt="GitHub followers" />
-</p>
-
 ## 👨‍💻 About me
 
 My name is **Denis**. I'm a **C# / .NET software engineer** from Belarus, living in Pinsk.
