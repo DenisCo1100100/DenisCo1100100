@@ -48,10 +48,6 @@ My name is **Denis**. I'm a **C# / .NET software engineer** from Belarus, living
   <img height="165" src="./profile/top-langs.svg" alt="Top languages" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=DenisCo1100100&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub streak" />
-</p>
-
 ## 📈 Activity
 
 <p align="center">
