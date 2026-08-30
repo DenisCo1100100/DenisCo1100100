@@ -51,7 +51,7 @@ My name is **Denis**. I'm a **C# / .NET software engineer** from Belarus, living
 ## 📈 Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DenisCo1100100&theme=github-compact&hide_border=true" alt="GitHub activity graph" />
+  <img width="100%" src="./profile/activity.svg" alt="GitHub activity graph" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0D1117,100:42AAFF" />
