@@ -1,6 +1,11 @@
 name: Update README cards
 
 on:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/update-readme-cards.yml"
   schedule:
     - cron: "0 3 * * *"
   workflow_dispatch:
@@ -30,6 +35,18 @@ jobs:
           options: username=${{ github.repository_owner }}&layout=compact&theme=dark&langs_count=6
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate activity card
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          AUTO_PUSH: false
+          THEME: github_dark
+
+      - name: Copy activity card
+        run: cp profile-summary-card-output/github_dark/0-profile-details.svg profile/activity.svg
 
       - name: Commit cards
         run: |
