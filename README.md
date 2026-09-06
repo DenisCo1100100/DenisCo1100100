@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About me
 
-My name is **Denis**. I'm a **C# / .NET software engineer** from Belarus, living in Pinsk.
+My name is **Denis**. I'm a **C# / .NET software engineer** from Belarus, living in Minsk.
 
 - 🧱 Interested in **Clean Architecture**, backend design and real-world product development
 - ⚙️ Main stack: **C#**, **.NET**, **ASP.NET Core**, **PostgreSQL**, **Git**
